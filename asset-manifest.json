@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/prueba_tp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/prueba_tp/static/js/main.5bf9bc3d.chunk.js",
+    "main.js.map": "/prueba_tp/static/js/main.5bf9bc3d.chunk.js.map",
+    "runtime-main.js": "/prueba_tp/static/js/runtime-main.2c878a14.js",
+    "runtime-main.js.map": "/prueba_tp/static/js/runtime-main.2c878a14.js.map",
+    "static/css/2.4be38407.chunk.css": "/prueba_tp/static/css/2.4be38407.chunk.css",
+    "static/js/2.c0698b78.chunk.js": "/prueba_tp/static/js/2.c0698b78.chunk.js",
+    "static/js/2.c0698b78.chunk.js.map": "/prueba_tp/static/js/2.c0698b78.chunk.js.map",
+    "static/js/3.0d4a4232.chunk.js": "/prueba_tp/static/js/3.0d4a4232.chunk.js",
+    "static/js/3.0d4a4232.chunk.js.map": "/prueba_tp/static/js/3.0d4a4232.chunk.js.map",
+    "index.html": "/prueba_tp/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/prueba_tp/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/prueba_tp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c0698b78.chunk.js.LICENSE.txt": "/prueba_tp/static/js/2.c0698b78.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c878a14.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.c0698b78.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5bf9bc3d.chunk.js"
+  ]
+}
